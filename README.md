@@ -33,7 +33,7 @@ This project simulates a database system for a fictional online retail company. 
 
 6. Technologies Used
 
-- MySQL: For database design, queries, triggers, and stored procedures.
+- MySQL: For database design, queries, triggers, and stored procedure.
 - SQL: Standard SQL for table creation, data manipulation, and complex query writing.
 
 
